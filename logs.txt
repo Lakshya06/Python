@@ -1,0 +1,43 @@
+Drank water at 2021-05-06 23:17:40.691364 
+Drank water at 2021-05-06 23:17:40.691364 
+Gave rest to eyes at 2021-05-06 23:26:11.382363 
+Drank water at 2021-05-06 23:26:48.094037 
+Drank water at 2021-05-06 23:26:48.094037 
+Drank water at 2021-05-06 23:38:29.899601 
+Drank water at 2021-05-06 23:38:29.899601 
+Drank water at 2021-05-06 23:38:29.899601 
+Drank water at 2021-05-06 23:39:10.396313 
+Drank water at 2021-05-06 23:42:13.518314 
+Gave rest to eyes at 2021-05-06 23:42:13.518314 
+Drank water at 2021-05-06 23:42:13.518314 
+Gave rest to eyes at 2021-05-06 23:42:13.518314 
+Drank water at 2021-05-06 23:42:13.518314 
+Gave rest to eyes at 2021-05-06 23:42:13.518314 
+Drank water at 2021-05-06 23:42:13.518314 
+Drank water at 2021-05-06 23:45:43.156740 
+Gave rest to eyes at 2021-05-06 23:45:43.156740 
+Drank water at 2021-05-06 23:45:43.156740 
+Drank water at 2021-05-06 23:46:57.714247 
+Gave rest to eyes at 2021-05-06 23:46:57.714247 
+Drank water at 2021-05-06 23:46:57.714247 
+Gave rest to eyes at 2021-05-06 23:46:57.714247 
+Drank water at 2021-05-06 23:49:14.717018 
+Gave rest to eyes at 2021-05-06 23:49:14.717018 
+Drank water at 2021-05-06 23:49:14.717018 
+Gave rest to eyes at 2021-05-06 23:49:14.717018 
+Drank water at 2021-05-07 11:47:37.699909 
+Gave rest to eyes at 2021-05-07 11:47:37.699909 
+Drank water at 2021-05-07 12:32:20.500495 
+Gave rest to eyes at 2021-05-07 12:32:20.500495 
+Exercised at 2021-05-07 12:32:20.500495 
+Drank water at 2021-05-07 13:41:33.292181 
+Gave rest to eyes at 2021-05-07 13:41:33.292181 
+Exercised at 2021-05-07 13:41:33.292181 
+Drank water at 2021-05-07 13:41:33.292181 
+Gave rest to eyes at 2021-05-07 13:41:33.292181 
+Exercised at 2021-05-07 13:41:33.292181 
+Drank water at 2021-05-08 11:18:24.652905 
+Drank water at 2021-05-08 13:24:00.420487 
+Gave rest to eyes at 2021-05-08 13:24:00.420487 
+Drank water at 2021-05-08 13:24:49.117489 
+Gave rest to eyes at 2021-05-08 13:24:49.117489 
