@@ -27,7 +27,29 @@ def knightMoves(p, q):
 
 if __name__ == '__main__':
 
-    moves = knightMoves(3, 4)
+    # moves = knightMoves(3, 4)
+    #
+    # print(moves)
 
-    print(moves)
+    t = int(input())
+
+    for _ in range(t):
+
+        x1, y1 = map(int, input().split())
+        x2, y2 = map(int, input().split())
+
+        moves1 = knightMoves(x1, y1)
+        moves2 = knightMoves(x2, y2)
+
+        for i in range(len(moves1)):
+            if moves1[i] == moves2[i]:
+                flag = 1
+                break
+
+        if flag==1:
+            print("YES")
+        else:
+            print("NO")
+
+
 
